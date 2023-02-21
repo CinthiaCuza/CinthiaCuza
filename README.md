@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm Cinthia and welcome to my profile! :+1: 
+
+:mortar_board: I graduated as a computer engineer, but my path in the game development world didn't start at that moment. 
+
+:two::zero::one::three: I started my university studies at the Computing Sciences University in Cuba. :books:
+
+:two::zero::one::seven: I started my practical studies in VERTEX, the center specialized in video games development. :computer:
+
+:two::zero::one::nine: I presented as my bachelor thesis the video game "The Wumpus world", based on artificial intelligence techniques. :video_game:
+
+By then, I already had skills in: 
+
+
+
 
 <!--
 **CinthiaCuza/CinthiaCuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
