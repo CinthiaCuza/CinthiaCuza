@@ -26,26 +26,10 @@ By then, I already had **skills** in:
    
    :two::zero::two::one: Game developer for the Spanish company Yoi Talent: **Web game Más allá del tarot**
    
-<img src="Cosmox.png" width="200" height="180" />  <img src="Destino.png" width="200" height="180" />  <img src="Domino.png" width="200" height="180" />  <img src="BeyongTarot.png" width="200" height="180" />
+<img src="Cosmox.png" width="180" height="180" />  <img src="Destino.png" width="180" height="180" />  <img src="Domino.png" width="180" height="180" />  <img src="BeyongTarot.png" width="180" height="180" />
 
 This allowed me to incorporate more **skills**: 
 
 <img src="TechnicalExperiencePart2.png" width="300" height="180" />
 
-
-
-<!--
-<img src="Cosmox.png" data-canonical-src="https://apklis.cu/application/cu.vertex.cosmox" width="200" height="180" />
-**CinthiaCuza/CinthiaCuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Don't hesitate to take a look of my [**Portfolio**](https://cinthiacuza.my.canva.site/) or my [**LinkedIn**](https://www.linkedin.com/in/cinthia-cuza-soca/) if you want to know more about me.
