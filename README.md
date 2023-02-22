@@ -10,7 +10,7 @@
 
 By then, I already had skills in: 
 
-<img src="TechnicalExperience.png" data-canonical-src="TechnicalExperience.png" width="344" height="230" />
+<img src="TechnicalExperiencePart1.png" data-canonical-src="TechnicalExperiencePart1.png" width="344" height="230" />
 
 
 <!--
