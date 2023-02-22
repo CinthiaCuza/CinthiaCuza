@@ -10,12 +10,8 @@
 
 By then, I already had skills in: 
 
-![This is an image](Unity.png) Unity 3D Engine
-![This is an image](ProgrammingLanguaje.png) C# programming language
-![This is an image](VisualStudio.png) Visual Studio 
-![This is an image](AdobeIllustrator.png) Adobe Illustrator 
+<img src="TechnicalExperience.png" data-canonical-src="TechnicalExperience.png" width="344" height="230" />
 
-Inkscape, Blender and Autodesk Maya.
 
 <!--
 **CinthiaCuza/CinthiaCuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
