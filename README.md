@@ -26,10 +26,10 @@ By then, I already had **skills** in:
    
    :two::zero::two::one: Game developer for the Spanish company Yoi Talent: **Web game Más allá del tarot**
    
-<img src="Cosmox.png" width="180" height="180" />  <img src="Destino.png" width="180" height="180" />  <img src="Domino.png" width="180" height="180" />  <img src="BeyongTarot.png" width="180" height="180" />
+<img src="Cosmox.png" width="200" height="180" />  <img src="Destino.png" width="180" height="180" />  <img src="Domino.png" width="180" height="180" />  <img src="BeyongTarot.png" width="180" height="180" />
 
 This allowed me to incorporate more **skills**: 
 
 <img src="TechnicalExperiencePart2.png" width="300" height="180" />
 
-Don't hesitate to take a look of my [**Portfolio**](https://cinthiacuza.my.canva.site/) or my [**LinkedIn**](https://www.linkedin.com/in/cinthia-cuza-soca/) if you want to know more about me.
+Don't hesitate to take a look of my [**Portfolio**](https://cinthiacuza.my.canva.site/) or my [**LinkedIn**](https://www.linkedin.com/in/cinthia-cuza-soca/) if you want to know more about me. :wave:
