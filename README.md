@@ -28,7 +28,7 @@ By then, I had the following **skills**:
    
 <img src="Cosmox.png" width="200" height="180" />  <img src="Destino.png" width="180" height="180" />  <img src="Domino.png" width="180" height="180" />  <img src="BeyongTarot.png" width="180" height="180" />
 
-:two::zero::one::three: Personal projects
+:two::zero::two::three: Personal projects
 - [**Minesweeper Game**](https://cinthiacuza.github.io/MinesweeperGame/)
   
 These roles widened my range of **skills**: 
