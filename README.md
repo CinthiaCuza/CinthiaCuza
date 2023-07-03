@@ -28,6 +28,9 @@ By then, I had the following **skills**:
    
 <img src="Cosmox.png" width="200" height="180" />  <img src="Destino.png" width="180" height="180" />  <img src="Domino.png" width="180" height="180" />  <img src="BeyongTarot.png" width="180" height="180" />
 
+Personal projects: 
+- [**Minesweeper Game**](https://apklis.cu/application/cu.vertex.cosmox)
+  
 These roles widened my range of **skills**: 
 
 <img src="TechnicalExperiencePart2.png" width="300" height="180" />
