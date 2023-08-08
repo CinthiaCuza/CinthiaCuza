@@ -27,6 +27,7 @@ By then, I had the following **skills**:
 #### 2023 Personal projects
 - [**Minesweeper Game**](https://cinthiacuza.github.io/MinesweeperGame/)
 - [**Gyruss Game**](https://cinthiacuza.itch.io/gyruss)
+- [**Breakout in the Farm Game**](https://cinthiacuza.github.io/BreakoutInFarmGame/)
   
 These roles widened my range of **skills**: 
 
