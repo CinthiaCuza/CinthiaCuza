@@ -24,10 +24,11 @@ By then, I had the following **skills**:
    
 <img src="Cosmox.png" width="200" height="180" />  <img src="Destino.png" width="180" height="180" />  <img src="Domino.png" width="180" height="180" />  <img src="BeyongTarot.png" width="180" height="180" />
 
-#### 2023 Personal projects
-- [**Minesweeper Game**](https://cinthiacuza.github.io/MinesweeperGame/)
-- [**Gyruss Game**](https://cinthiacuza.itch.io/gyruss)
-- [**Breakout in the Farm Game**](https://cinthiacuza.github.io/BreakoutInFarmGame/)
+#### 2023 Personal Games
+- [**Minesweeper**](https://cinthiacuza.github.io/MinesweeperGame/)
+- [**Gyruss**](https://cinthiacuza.itch.io/gyruss)
+- [**Breakout in the Farm**](https://cinthiacuza.github.io/BreakoutInFarmGame/)
+- [**I'm the wall**](https://cinthiacuza.itch.io/i-am-the-wall)
   
 These roles widened my range of **skills**: 
 
