@@ -36,4 +36,4 @@ These roles widened my range of **skills**:
 
 <img src="TechnicalExperiencePart2.png" width="300" height="180" />
 
-To know more about me please visit my [**Portfolio**](https://cinthiacuza.my.canva.site/) or my [**LinkedIn**](https://www.linkedin.com/in/cinthia-cuza-soca/) profile. :wave:
+If you’d like to know more about me, feel free to check out my [**Portfolio**](https://cinthiacuza.my.canva.site/) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/cinthia-cuza-soca/) . :wave:
