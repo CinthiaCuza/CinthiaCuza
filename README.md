@@ -1,14 +1,14 @@
 **Hi, I'm Cinthia. Welcome to my profile!** :+1: -------------- [**Portfolio**](https://cinthiacuza.my.canva.site/) --------------- [**LinkedIn**](https://www.linkedin.com/in/cinthia-cuza-soca/)
 
-:mortar_board: **I graduated as computer engineer and my path in game development started during my time as student.**
+:mortar_board: **I graduated as a computer engineer and my journey in game development began while I was still a student.**
 
-**2014** :books:<br> My studies commenced at the Computing Sciences University in Cuba.  
+**2014** :books:<br> I started my studies at the Computing Sciences University in Cuba.  
 
-**2017** :computer:<br>I got my practical training in VERTEX, the center specialized in video games development.
+**2017** :computer:<br>I completed my practical training at VERTEX, a center specialized in video games development.
 
-**2019** :video_game:<br>I developed as my bachelor thesis the video game "The Wumpus world", based on artificial intelligence techniques. 
+**2019** :video_game:<br>For my bachelor's thesis, I developed the video game "The Wumpus World", applying artificial intelligence techniques. 
 
-By then, I had the following **skills**: 
+By that time, I had already gained the following **skills**: 
 
 <img src="TechnicalExperiencePart1.png" width="344" height="230" />
 
