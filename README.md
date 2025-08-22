@@ -16,13 +16,13 @@ By that time, I had already gained the following **skills**:
 
 **2019-2022** 
 
-- I worked as game developer and game designer creating video games for [**COSMOX**](https://apklis.cu/application/cu.vertex.cosmox), the Cuban multiplayer video game platform. I covered the entire development cycle of the games.
+- I worked as a Game Developer and Game Designer at [**COSMOX**](https://apklis.cu/application/cu.vertex.cosmox), the Cuban multiplayer video game platform. There, I was responsible for the entire game development cycle, from concept to release.
 
-- I also got involved in some freelance projects :woman_technologist:  
+- In parallel, I also collaborated on several freelance projects :woman_technologist:  
    
    Game developer for the Spanish company Yoi Talent: [**Web game Destino**](http://centroesotericodestino.es/)<br>
-   Game developer and game designer for Cubacitas social network: [**mobile game Domino**](https://cinthiacuza.itch.io/domino-cubacitas)<br>
-   Game developer for the Spanish company Yoi Talent: **Web game Más allá del tarot**
+   Game developer and game designer for the social network Cubacitas: [**mobile game Domino**](https://cinthiacuza.itch.io/domino-cubacitas)<br>
+   Game developer for Yoi Talent: **Web game Más allá del tarot**
    
 <img src="Cosmox.png" width="200" height="180" />  <img src="Destino.png" width="180" height="180" />  <img src="Domino.png" width="180" height="180" />  <img src="BeyongTarot.png" width="180" height="180" />
 
