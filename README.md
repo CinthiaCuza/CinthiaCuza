@@ -26,14 +26,25 @@ By that time, I had already gained the following **skills**:
    
 <img src="Cosmox.png" width="200" height="180" />  <img src="Destino.png" width="180" height="180" />  <img src="Domino.png" width="180" height="180" />  <img src="BeyongTarot.png" width="180" height="180" />
 
-**2023 Personal Games**
+**2023-PRESENT**
+
+- I am currently working as a Unity Developer at Spiele-Palast GmbH (Germany), where I develop and maintain [**online card games**](https://www.spiele-palast.de/) for both mobile and desktop platforms.
+
+  
+These roles widened my range of **skills**: 
+
+<img src="TechnicalExperiencePart2.png" width="300" height="180" />
+
+**Game Prototypes & Demos**
 - [**Minesweeper**](https://cinthiacuza.github.io/MinesweeperGame/)
 - [**Gyruss**](https://cinthiacuza.itch.io/gyruss)
 - [**Breakout in the Farm**](https://cinthiacuza.github.io/BreakoutInFarmGame/)
 - [**I'm the wall**](https://cinthiacuza.itch.io/i-am-the-wall)
   
-These roles widened my range of **skills**: 
 
-<img src="TechnicalExperiencePart2.png" width="300" height="180" />
+
+
+
+
 
 If you’d like to know more about me, feel free to check out my [**Portfolio**](https://cinthiacuza.my.canva.site/) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/cinthia-cuza-soca/) . :wave:
